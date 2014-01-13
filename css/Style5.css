@@ -25,7 +25,9 @@
 .content-3-tabs input#port-tab-4{
 	top: 120px;
 }
-
+.content-3-tabs input#port-tab-5{
+	top: 160px;
+}
 .content-3-tabs label {
 	background: #5ba4a4;
 	background: -moz-linear-gradient(left, #5ba4a4 0%, #ffffff 100%);
@@ -38,7 +40,7 @@
 	line-height: 40px;
 	height: 40px;
 	position: relative;
-	padding: 0 20px;
+	padding: 0 10px;
 	display: block;
 	width: 80px;
 	color: #385c5b;
@@ -104,37 +106,42 @@
 }
 
 .content-3-tabs input.port-tab-selector-1:hover + label.port-tab-label-1 ~ .clear-shadow-2 {
-    z-index: 3;
+    z-index: 4;
 }
 
 .content-3-tabs input.port-tab-selector-2:hover + label.port-tab-label-2 ~ .clear-shadow-2 {
-    z-index: 2;
+    z-index: 3;
 }
 
 .content-3-tabs input.port-tab-selector-3:hover + label.port-tab-label-3 ~ .clear-shadow-2 {
-    z-index: 1;
+    z-index: 2;
 }
 
 .content-3-tabs input.port-tab-selector-4:hover + label.port-tab-label-4 ~ .clear-shadow-2 {
+    z-index: 1;
+}
+.content-3-tabs input.port-tab-selector-5:hover + label.port-tab-label-5 ~ .clear-shadow-2 {
     z-index: 0;
 }
 .content-3-tabs label:first-of-type {
-    z-index: 4;
+    z-index: 5;
     box-shadow: 2px 0 2px rgba(0,0,0,0.1);
 }
 
 .port-tab-label-2 {
-    z-index: 3;
+    z-index: 4;
 }
 
 .port-tab-label-3 {
-    z-index: 2;
+    z-index: 3;
 }
 
 .port-tab-label-4 {
+    z-index: 2;
+}
+.port-tab-label-5 {
     z-index: 1;
 }
-
 .content-3-tabs input:checked + label {
     background: #fff;
 	z-index: 6;
@@ -148,56 +155,36 @@
 .clear-shadow-2 {
     background: #5ba4a4;
 	position: relative;
-	top: 0px;
+	top: -221px;
 	left: 120px;
-    height: 300px;
-    width:8px;
-	margin-bottom: -300px;
+    height: 400px;
+    width: 8px;
+	margin-bottom: -650px;
     clear: both;
-	z-index: 1000;
+	z-index: 0;
     box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2);
-    border-radius: 3px;
+    border-radius: 3px 0px 0px 3px;
 }
 
-/*
 .sub-content-3 {
-    background-color: #000000;
+	background: #fff;
 	position: relative;
-    width: auto;
-    top:0px;
-	margin: -175px 0 0 120px;
-	height: 200px;
+	padding-left: 10px;
+	top: 0px;
+	/*top: -340px;*/
+	left: 120px;
+    width: 100%;
+	height: 400px;
 	z-index: 10;
-	overflow: scroll;
-    box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
-    border-radius: 3px;
+    box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+    border-radius: 3px 0px 0px 3px; 
 }
 
-.sub-content-3 div {
-    position: absolute;
-	top: 0;
-	padding: 10px 40px;
-	z-index: 1;
-    opacity: 0;
-    -webkit-transition: all linear 0.5s;
-    -moz-transition: all linear 0.5s;
-    -o-transition: all linear 0.5s;
-    -ms-transition: all linear 0.5s;
-    transition: all linear 0.5s;
-}
-
-.sub-content-3 div{
-	-webkit-transform: translateY(-450px);
-	-moz-transform: translateY(-450px);
-	-o-transform: translateY(-450px);
-	-ms-transform: translateY(-450px);
-	transform: translateY(-450px);
-}
-*/
 .content-3-tabs input.port-tab-selector-1:checked ~ .sub-content-3 .sub-content-3-1,
 .content-3-tabs input.port-tab-selector-2:checked ~ .sub-content-3 .sub-content-3-2,
 .content-3-tabs input.port-tab-selector-3:checked ~ .sub-content-3 .sub-content-3-3,
-.content-3-tabs input.port-tab-selector-4:checked ~ .sub-content-3 .sub-content-3-4 {
+.content-3-tabs input.port-tab-selector-4:checked ~ .sub-content-3 .sub-content-3-4,
+.content-3-tabs input.port-tab-selector-5:checked ~ .sub-content-3 .sub-content-3-5 {
     -webkit-transform: translateY(0px);
 	-moz-transform: translateY(0px);
 	-o-transform: translateY(0px);
@@ -213,22 +200,3 @@
     -ms-transition: all ease-out 0.3s 0.3s;
     transition: all ease-out 0.3s 0.3s;
 }
-
-/*
-.sub-content-3 div h2,
-.sub-content-3 div h3{
-	color: #398080;
-}
-.sub-content-3 div p {
-	font-size: 14px;
-	line-height: 22px;
-	font-style: italic;
-	text-align: left;
-	margin: 0;
-	color: #777;
-	padding-left: 15px;
-	font-family: Cambria, Georgia, serif;
-	border-left: 8px solid rgba(63,148,148, 0.1);
-}
-*/
-
