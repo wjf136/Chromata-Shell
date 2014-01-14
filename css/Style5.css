@@ -1,6 +1,6 @@
 .content-3-tabs {
     position: relative;
-	margin: 40px auto;
+	margin: 20px -20px;
 	background: #fff;
 }
 
@@ -40,7 +40,7 @@
 	line-height: 40px;
 	height: 40px;
 	position: relative;
-	padding: 0 10px;
+	padding: 0 20px;
 	display: block;
 	width: 80px;
 	color: #385c5b;
@@ -155,29 +155,46 @@
 .clear-shadow-2 {
     background: #5ba4a4;
 	position: relative;
-	top: -221px;
+	top: -220px;
 	left: 120px;
     height: 400px;
-    width: 8px;
+    width: 100px;
 	margin-bottom: -650px;
     clear: both;
 	z-index: 0;
     box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2);
-    border-radius: 3px 0px 0px 3px;
+    border-radius: 5px 5px 5px 5px;
+}
+.content-3 {
+	background: #fff;
+	position: relative;
+	width: 70%;
+	/*height: 400px;
+	z-index: 5;
+    box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
+    border-radius: 0 3px 3px 3px;*/ 
+}
+
+.content-3 div {
+
 }
 
 .sub-content-3 {
 	background: #fff;
 	position: relative;
 	padding-left: 10px;
-	top: 0px;
+	top: 30px;
 	/*top: -340px;*/
 	left: 120px;
     width: 100%;
 	height: 400px;
 	z-index: 10;
-    box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);
-    border-radius: 3px 0px 0px 3px; 
+    /*box-shadow: 0 -2px 3px -2px rgba(0,0,0,0.2), 0 2px 2px rgba(0,0,0,0.1);*/
+    border-radius: 5px 5px 5px 5px; 
+}
+.sub-content-3 div{
+	position: absolute;
+	/*top: -11px;*/
 }
 
 .content-3-tabs input.port-tab-selector-1:checked ~ .sub-content-3 .sub-content-3-1,
