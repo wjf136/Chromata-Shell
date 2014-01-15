@@ -2,12 +2,12 @@
 /* General Demo Style */
 body{
 	font-family: 'Open Sans Condensed','Arial Narrow', serif;
-	background: #041742 url(../img/bottomGraphic.jpg) no-repeat center bottom fixed;
+	background: #041742 url(../img/footlight2.jpg) no-repeat center bottom fixed;
 	/*-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
   	*/
-  	background-size: 100% 20%;
+  	background-size: 100% 100%;
 	font-weight: 400;
 	font-size: 15px;
 	color: #333;

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="43" version="2.0">
+<workbench progressCount="49" version="2.0">
 <workbenchAdvisor/>
-<window height="795" width="1249" x="60" y="22">
+<window height="795" maximized="true" width="1249" x="60" y="22">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
-<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="137" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="168" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="91" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="com.aptana.editor.text" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -33,21 +33,31 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
+<part id="3"/>
+<part id="4"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.aptana.editor.html" name="Index.html" partName="Index.html" title="Index.html" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata-Shell/Index.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/Index.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1005"/>
+<editor id="com.aptana.editor.html" name="Index.html" partName="Index.html" title="Index.html" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\Index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/Index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10265" selectionTopPixel="0"/>
 </editor>
-<editor id="com.aptana.editor.css" name="style.css" partName="style.css" title="style.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata-Shell/css/style.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/css/style.css"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+<editor id="com.aptana.editor.css" name="style.css" partName="style.css" title="style.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\style.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/style.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="58" selectionOffset="849" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="com.aptana.editor.css" name="Style5.css" partName="Style5.css" title="Style5.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata-Shell/css/Style5.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/css/Style5.css"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4334" selectionTopPixel="2462"/>
+<editor id="com.aptana.editor.css" name="Style5.css" partName="Style5.css" title="Style5.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\Style5.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/Style5.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="399" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.css" name="demo.css" partName="demo.css" title="demo.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\demo.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/demo.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="432" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.html" name="index.html" partName="index.html" title="index.html" tooltip="C:\Users\william.fortin\Documents\CSS3ContentTabs\index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/william.fortin/Documents/CSS3ContentTabs/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1170"/>
 </editor>
 </editors>
 <views>
@@ -180,69 +190,160 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/Index.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.xml" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/.project"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/index3.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/style3.css"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/style.css"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/index4.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/style4.css"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/Style5.css"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/demo.css"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/Index.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/css/style.css"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/css/Style5.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/Index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/style.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/Style5.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/demo.css"/>
 </editors>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4050" y="0"/>
+</item>
 <item historyLabel="Index.html" index="0">
-<position info="not_deleted" x="6305" y="0"/>
+<position info="not_deleted" x="5041" y="0"/>
 </item>
-<item historyLabel=".project" index="1">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="1865" y="549"/>
 </item>
-<item historyLabel="index3.html" index="2">
-<position info="not_deleted" x="3561" y="0"/>
+<item historyLabel="Style5.css" index="2">
+<position/>
 </item>
-<item historyLabel="style3.css" index="3">
-<position info="not_deleted" x="1887" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="5041" y="0"/>
 </item>
-<item historyLabel="style.css" index="4">
-<position info="not_deleted" x="2436" y="0"/>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4378" y="0"/>
 </item>
-<item historyLabel="index4.html" index="5">
-<position info="not_deleted" x="2163" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="5041" y="0"/>
 </item>
-<item historyLabel="style4.css" index="6">
-<position info="not_deleted" x="69" y="0"/>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4571" y="0"/>
 </item>
-<item historyLabel="Style5.css" index="7">
-<position info="not_deleted" x="220" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="5041" y="0"/>
 </item>
-<item historyLabel="demo.css" index="8">
-<position info="not_deleted" x="767" y="0"/>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="2593" y="0"/>
 </item>
-<item historyLabel="Index.html" index="9">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="5041" y="0"/>
 </item>
-<item historyLabel="style.css" index="10">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4571" y="0"/>
 </item>
-<item historyLabel="Index.html" index="9">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
 </item>
-<item historyLabel="Style5.css" index="11">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4306" y="0"/>
 </item>
-<item historyLabel="Index.html" index="9">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="5586" y="0"/>
 </item>
-<item historyLabel="Style5.css" index="11">
-<position info="not_deleted" x="3911" y="0"/>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4306" y="0"/>
 </item>
-<item historyLabel="style.css" index="10">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="5586" y="0"/>
 </item>
-<item active="true" historyLabel="Style5.css" index="11">
-<position info="not_deleted" x="3911" y="0"/>
+<item historyLabel="Index.html" index="0">
+<position/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4306" y="0"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10327" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4306" y="0"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4100" y="0"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4654" y="0"/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="2593" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4651" y="0"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4651" y="0"/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="2106" y="19"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4632" y="0"/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="2106" y="19"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4632" y="0"/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="1949" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="4636" y="0"/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="1949" y="0"/>
+</item>
+<item historyLabel="Style5.css" index="2">
+<position info="not_deleted" x="399" y="0"/>
+</item>
+<item historyLabel="demo.css" index="3">
+<position info="not_deleted" x="1764" y="0"/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="1949" y="0"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="demo.css" index="3">
+<position/>
+</item>
+<item historyLabel="style.css" index="1">
+<position info="not_deleted" x="849" y="58"/>
+</item>
+<item historyLabel="demo.css" index="3">
+<position/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item historyLabel="demo.css" index="3">
+<position info="not_deleted" x="341" y="0"/>
+</item>
+<item historyLabel="Index.html" index="0">
+<position info="not_deleted" x="10265" y="0"/>
+</item>
+<item active="true" historyLabel="demo.css" index="3">
+<position info="not_deleted" x="341" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -250,6 +351,10 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@af07c4"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -257,51 +362,37 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="Style5.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata-Shell/css/Style5.css">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/css/Style5.css"/>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="main.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\main.css">
+<persistable uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/main.css"/>
 </file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata-Shell/css/style.css">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/css/style.css"/>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="C:\Users\william.fortin\Documents\CSS3ContentTabs\index.html">
+<persistable uri="file:/C:/Users/william.fortin/Documents/CSS3ContentTabs/index.html"/>
 </file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="Index.html" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata-Shell/Index.html">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata-Shell/Index.html"/>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="favicon.ico" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\favicon.ico">
+<persistable uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/favicon.ico"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="demo.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\demo.css">
+<persistable uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/demo.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="Style5.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\Style5.css">
+<persistable uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/Style5.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style.css" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\css\style.css">
+<persistable uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="Index.html" tooltip="C:\Users\william.fortin\Documents\Aptana Studio 3 Workspace\Chromata Shell\Index.html">
+<persistable uri="file:/C:/Users/william.fortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/Index.html"/>
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="kyle.css" tooltip="/Users/billyfortin/Downloads/pure-css3-kyle-brofl_1387324513_demo_package/kyle.css">
 <persistable uri="file:/Users/billyfortin/Downloads/pure-css3-kyle-brofl_1387324513_demo_package/kyle.css"/>
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/billyfortin/Downloads/pure-css3-kyle-brofl_1387324513_demo_package/index.html">
 <persistable uri="file:/Users/billyfortin/Downloads/pure-css3-kyle-brofl_1387324513_demo_package/index.html"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/billyfortin/Downloads/index.html">
-<persistable uri="file:/Users/billyfortin/Downloads/index.html"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style.css" tooltip="/Users/billyfortin/Downloads/style.css">
-<persistable uri="file:/Users/billyfortin/Downloads/style.css"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="demo.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata Shell/css/demo.css">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/demo.css"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="main.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata Shell/css/main.css">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/main.css"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.text" name="humans.txt" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata Shell/humans.txt">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/humans.txt"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.text" name="ImageAttribution.txt" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata Shell/img/ImageAttribution.txt">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/img/ImageAttribution.txt"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="bg.jpg" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata Shell/img/bg.jpg">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/img/bg.jpg"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="Style5.css" tooltip="/Users/billyfortin/Documents/Aptana Studio 3 Workspace/Chromata Shell/css/Style5.css">
-<persistable uri="file:/Users/billyfortin/Documents/Aptana%20Studio%203%20Workspace/Chromata%20Shell/css/Style5.css"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style4.css" tooltip="/Users/billyfortin/Downloads/CSS3ContentTabs/css/style4.css">
-<persistable uri="file:/Users/billyfortin/Downloads/CSS3ContentTabs/css/style4.css"/>
 </file>
 </mruList>
 </workbench>
