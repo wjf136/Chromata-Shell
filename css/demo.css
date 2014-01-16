@@ -2,11 +2,10 @@
 /* General Demo Style */
 body{
 	font-family: 'Open Sans Condensed','Arial Narrow', serif;
-	background: #041742 url(../img/footlight2.jpg) no-repeat center bottom fixed;
-	/*-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	*/
+	background: #041742 url(../img/fotolia_19626771.jpg) no-repeat center bottom fixed;
+	-webkit-background-size: 100% 100%;
+  	-moz-background-size: 100% 100%;
+  	-o-background-size: 100% 100%;
   	background-size: 100% 100%;
 	font-weight: 400;
 	font-size: 15px;

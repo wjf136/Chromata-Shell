@@ -602,3 +602,13 @@ java.net.SocketException: Connection reset
 	at java.io.BufferedReader.readLine(Unknown Source)
 	at java.io.BufferedReader.readLine(Unknown Source)
 	at com.aptana.commandline.launcher.server.LauncherServer$CommandLineArgsServer.run(LauncherServer.java:126)
+!SESSION 2014-01-15 16:57:54.130 -----------------------------------------------
+eclipse.buildId=3.3.2.201302081546
+java.version=1.6.0_51
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/billyfortin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/billyfortin/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-01-15 16:58:27.847
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
